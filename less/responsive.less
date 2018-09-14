@@ -1,0 +1,144 @@
+// main: main.less
+@media screen and (max-width:750px) {
+
+    .submenu {
+        display: flex;
+        flex-wrap: wrap;
+
+        a {
+            &.registrate {
+                background: #00aab5;
+                width: 100%;
+                font-size: 1.1em;
+                padding: 10px 10px;
+                position: relative;
+                text-shadow: 1px 4px 3px rgba(0, 0, 0, 0.5);
+                box-shadow: 0px 4px 3px rgba(0, 0, 0, 0.8);
+                transform: scale(1) translateX(0px) translateY(0px);
+            }
+        }
+    }
+
+    .template-section {
+        article {
+            padding-left: 15px;
+            padding-right: 15px;
+            font-size: 0.9em;
+        }
+    }
+
+    #inicio {
+        #intro {
+            background: url(../img/fondo-intro-movil.png) no-repeat center top;
+            height: 700px;
+            img {
+                width: 90%;
+            }
+
+            img.logo {
+                width: 80%;
+                margin-top: 0px;
+                padding-top: 120px;
+            }
+
+            img.fecha {
+                width: 70%;
+                margin-top: 100px;
+            }
+
+            a.reserva {
+                font-size: 1.8em;
+            }
+
+            .clock {
+                display: none;
+            }
+        }
+    }
+
+    #presentacion {
+        #intro {
+            background: url(../img/intro/fondo-intro-movil.png) no-repeat center 50px;
+            height: 1500px;
+
+            .logo {
+                width: 90%;
+            }
+            .fecha {
+                max-width: 300px;
+            }
+
+            article {
+                padding: 20px 15px;
+                font-size: 0.9em;
+            }
+        }
+    }
+
+    #sede {
+        #intro {
+            background: url(../img/sede/background-movil.png) no-repeat center top;
+
+        }
+    }
+
+    #hospedaje,
+    #ponentes {
+        #intro {
+            background: url(../img/hospedaje/background-movil.png) no-repeat center top;
+
+            img.hospedaje {
+                width: 90%;
+                margin-top: 0px;
+            }
+
+            .hoteles {
+                grid-template-columns: repeat(1, 1fr);
+            }
+        }
+    }
+
+    #expomf {
+        #intro {
+            background: url(../img/expomf/background-movil.png) no-repeat center top;
+            img.expo {
+                width: 90%;
+            }
+
+
+        }
+
+        .patrocinadores {
+            padding: 20px 0;
+            img {
+                width: 90%;
+                position: relative !important;
+                margin: 20px auto;
+            }
+        }
+    }
+
+    #pronafim {
+        img.pronafim {
+            width: 90%;
+        }
+
+        #intro {
+            height: auto;
+
+            article {
+                padding-bottom: 200px;
+            }
+            .videos {
+                display: flex;
+                flex-wrap: wrap;
+                .video {
+                    width: 100%;
+                }
+                grid-template-columns: repeat(1, 1fr);
+
+            }
+        }
+    }
+
+}

@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Encuentro Nacional de Microfinanzas</title>
+
+
+    <!-- CSS -->
+    <link href="/favicon.ico" rel="shortcut icon">
+    <link href="https://framework-gb.cdn.gob.mx/assets/styles/main.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/flipclock.css">
+    <link rel="stylesheet" href="less/main.css">
+
+    <!-- Respond.js soporte de media queries para Internet Explorer 8 -->
+    <!-- ie8.js EventTarget para cada nodo en Internet Explorer 8 -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/ie8/0.2.2/ie8.js"></script>
+    <![endif]-->
+
+</head>
+
+<body>
+
+    <!-- Contenido -->
+    <main class="page">
+        <div id="inicio" class="container">
+            <section id="intro">
+                <img class="logo" src="img/logo.svg" alt="Encuentro Nacional de Microfinanzas">
+
+                <picture>
+                    <source media="(max-width: 799px)" srcset="img/borde-movil.svg">
+                    <source media="(min-width: 800px)" srcset="img/borde.svg">
+                    <img src="img/borde-movil.svg" alt="">
+                </picture>
+
+                <div class="texto">
+                    <img src="img/fecha.svg" alt="" class="fecha">
+
+                    <a class="reserva" href="intro.php">RESERVA LA FECHA</a>
+                </div>
+
+                <div class="clock" style="margin:2em;"></div>
+                <div class="message"></div>
+            </section>
+        </div>
+    </main>
+
+    <!-- JS -->
+    <script src="https://framework-gb.cdn.gob.mx/gobmx.js"></script>
+    <script src="https://unpkg.com/scrollreveal"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="js/flipclock.js"></script>
+    <script src="js/main.min.js"></script>
+
+  <script type="text/javascript">
+			var clock;
+			
+			$(document).ready(function() {
+				// Set dates.
+				var futureDate  = new Date("October 9, 2018 8:00 AM GMT-5");
+				var currentDate = new Date();
+
+				// Calculate the difference in seconds between the future and current date
+				var diff = futureDate.getTime() / 1000 - currentDate.getTime() / 1000;
+
+				// Calculate day difference and apply class to .clock for extra digit styling.
+				function dayDiff(first, second) {
+					return (second-first)/(1000*60*60*24);
+				}
+
+				if (dayDiff(currentDate, futureDate) < 100) {
+					$('.clock').addClass('twoDayDigits');
+				} else {
+					$('.clock').addClass('threeDayDigits');
+				}
+
+				if(diff < 0) {
+					diff = 0;
+				}
+
+				// Instantiate a coutdown FlipClock
+				clock = $('.clock').FlipClock(diff, {
+					clockFace: 'DailyCounter',
+					countdown: true
+				});
+			});
+		</script>
+</body>
+
+</html>
