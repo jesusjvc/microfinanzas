@@ -44,31 +44,80 @@
                     <!-- Set up your HTML -->
                     <div class="owl-carousel ponentes">
                         <div class="item">
-                            <img src="img/ponentes/p1.jpg" alt="">
+                            <img src="img/ponentes/ILDEFONSO-GUAJARDO.jpg" alt="">
                             <div class="info">
-                                <h3>Nunk Pellentesque Etiam</h3>
-                                <p>PELLENTESQUE TEMPUS IPSUM DIAM ALIQUAM INTERDUM</p>
+                                <h3>Ildefonso Guajardo Villarreal</h3>
+                                <p>Secretario de Economía</p>
                             </div>
                         </div>
                         <div class="item">
-                            <img src="img/ponentes/p2.jpg" alt="">
+                            <img src="img/ponentes/CYNTHIA-VILLARREAL.jpg" alt="">
                             <div class="info">
-                                <h3>Fauchibus Etiam Proin</h3>
-                                <p>PELLENTESQUE TEMPUS IPSUM DIAM ALIQUAM INTERDUM</p>
+                                <h3>Cynthia Villarreal Muraira</h3>
+                                <p>Coordinadora General del PRONAFIM</p>
                             </div>
                         </div>
                         <div class="item">
-                            <img src="img/ponentes/p3.jpg" alt="">
+                            <img src="img/ponentes/VIRGILIO-ANDRADE.jpg" alt="">
                             <div class="info">
-                                <h3>Laoreat Tindicunt Dapbus</h3>
-                                <p>PELLENTESQUE TEMPUS IPSUM DIAM ALIQUAM INTERDUM</p>
+                                <h3>Virgilio Andrade Martínez</h3>
+                                <p>Director General del Banco del Ahorro Nacional y Servicios Financieros </p>
                             </div>
                         </div>
                         <div class="item">
-                            <img src="img/ponentes/p4.jpg" alt="">
+                            <img src="img/ponentes/NARCEDALIA-RAMÍREZ.jpg" alt="">
                             <div class="info">
-                                <h3>Nunk Pellentesque Etiam</h3>
-                                <p>PELLENTESQUE TEMPUS IPSUM DIAM ALIQUAM INTERDUM</p>
+                                <h3>Narcedalia Ramírez Pineda</h3>
+                                <p>Directora del   Instituto Nacional de la Economía Social (INAES)</p>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <img src="img/ponentes/Marco-Antonio-Lopez-Perez.jpg" alt="">
+                            <div class="info">
+                                <h3>Mario Alberto Di Costanzo Armenta</h3>
+                                <p>Presidente Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros (/CONDUSEF)</p>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <img src="img/ponentes/ENRIQUE-MARTINEZ.jpg" alt="">
+                            <div class="info">
+                                <h3>Enrique Martínez y Morales</h3>
+                                <p>Director General de la Financiera Nacional de Desarrollo Agropecuario, Rural, Forestal y Pesquero (FND)</p>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <img src="img/ponentes/BERNARDO-ROSAS.jpg" alt="">
+                            <div class="info">
+                                <h3>Bernardo González Rosas </h3>
+                                <p>Presidente CNBV</p>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <img src="img/ponentes/Fernando-Sandoval.jpg" alt="">
+                            <div class="info">
+                                <h3>Fernando Sandoval Oseguera</h3>
+                                <p>Director de Instituciones Financieras / Estructurados de HR Ratings</p>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <img src="img/ponentes/Juan-Navarrete.jpg" alt="">
+                            <div class="info">
+                                <h3>Juan Navarrete</h3>
+                                <p>Vicepresidente para el desarrollo de Alianzas y Negocios de Fundación Capital</p>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <img src="img/ponentes/Rene-Romero-Arrechavala-27.jpg" alt="">
+                            <div class="info">
+                                <h3>René Romero Arrechavala</h3>
+                                <p>Director en Servicios Financieros Digitales de Amarante Consulting</p>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <img src="img/ponentes/Marco-Antonio-Lopez-Perez.jpg" alt="">
+                            <div class="info">
+                                <h3>Marco Antonio López Pérez </h3>
+                                <p>Vicepresidente de Supervisión de Grupos e Intermediarios Financieros de la CNBV</p>
                             </div>
                         </div>
 
