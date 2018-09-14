@@ -1,5 +1,5 @@
 <div class="submenu">
-    <div class="menu"><a href="intro.php">INICIO</a></div>    
+    <div class="menu"><a href="index.php">INICIO</a></div>    
     <div class="menu"><a href="sede.php">SEDE</a></div>
     <div class="menu"><a href="hospedaje.php">HOSPEDAJE</a></div>
 <!--
