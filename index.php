@@ -99,7 +99,7 @@
             <section id="intro">
 
                 <div class="texto">
-                    <img src="img/ponentes/ponentes.svg" alt="Ponentes" class="fecha hospedaje">
+                    <img src="img/programa/programa.svg" alt="Ponentes" class="fecha hospedaje">
                 </div>
 
                 <article>

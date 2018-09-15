@@ -468,6 +468,7 @@ img {
   .submenu {
     display: flex;
     flex-wrap: wrap;
+    justify-content: center;
   }
   .submenu a.registrate {
     background: #00aab5;
