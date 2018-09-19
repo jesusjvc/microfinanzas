@@ -176,7 +176,7 @@
                             <img src="img/ponentes/Rene-Romero-Arrechavala-27.jpg" alt="">
                             <div class="info">
                                 <h3>René Romero Arrechavala</h3>
-                                <p>Director en Servicios Financieros Digitales de Amarante Consulting</p>
+                                <p>Consultor Senior de Centro América y el Caribe de Amarante Consulting</p>
                             </div>
                         </div>
                         <div class="item">
@@ -184,6 +184,27 @@
                             <div class="info">
                                 <h3>Marco Antonio López Pérez </h3>
                                 <p>Vicepresidente de Supervisión de Grupos e Intermediarios Financieros de la CNBV</p>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <img src="img/ponentes/Georgina-Vázquez.jpg" alt="">
+                            <div class="info">
+                                <h3>Georgina Vázquez</h3>
+                                <p>Gerente de Programa OMTRIX</p>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <img src="img/ponentes/Lizbeth-Fajury.jpg" alt="">
+                            <div class="info">
+                                <h3>Lizbeth Fajury</h3>
+                                <p>Asociada de Marulanda & Consultores</p>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <img src="img/ponentes/timothy-ogden.jpg" alt="">
+                            <div class="info">
+                                <h3>Timothy Ogden</h3>
+                                <p>Director General del Financial Access Initiative</p>
                             </div>
                         </div>
 
@@ -357,6 +378,13 @@
                         <div class="item"><img src="img/expomf/patrocinadores/Logos-02.svg" alt=""></div>
                         <div class="item"><img src="img/expomf/patrocinadores/Logos-03.svg" alt=""></div>
                         <div class="item"><img src="img/expomf/patrocinadores/Logos-04.svg" alt=""></div>
+                        <div class="item"><img src="img/expomf/patrocinadores/Logos-05.svg" alt=""></div>
+                        <div class="item"><img src="img/expomf/patrocinadores/Logos-06.svg" alt=""></div>
+                        <div class="item"><img src="img/expomf/patrocinadores/Logos-07.svg" alt=""></div>
+                        <div class="item"><img src="img/expomf/patrocinadores/Logos-08.svg" alt=""></div>
+                        <div class="item"><img src="img/expomf/patrocinadores/Logos-09.svg" alt=""></div>
+                        <div class="item"><img src="img/expomf/patrocinadores/Logos-10.svg" alt=""></div>
+                        <div class="item"><img src="img/expomf/patrocinadores/Logos-11.svg" alt=""></div>
 
 
                     </div>
