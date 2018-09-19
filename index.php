@@ -138,7 +138,7 @@
                             </div>
                         </div>
                         <div class="item">
-                            <img src="img/ponentes/Marco-Antonio-Lopez-Perez.jpg" alt="">
+                            <img src="img/ponentes/MARIO-DI-COSTANZO.jpg" alt="">
                             <div class="info">
                                 <h3>Mario Alberto Di Costanzo Armenta</h3>
                                 <p>Presidente Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros (/CONDUSEF)</p>
@@ -382,7 +382,7 @@ Your browser does not support the video tag.
   <source src="video/video2.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
-                        <h2>XV Encuentro Nacional<br><small>Evolucionando las microfinanzas</small></h2>
+                        <h2>XV Encuentro Nacional de Microfinanzas <br><small>Evolucionando las microfinanzas</small></h2>
                     </div>
                 </div>
 
