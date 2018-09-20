@@ -385,6 +385,7 @@
                         <div class="item"><img src="img/expomf/patrocinadores/Logos-09.svg" alt=""></div>
                         <div class="item"><img src="img/expomf/patrocinadores/Logos-10.svg" alt=""></div>
                         <div class="item"><img src="img/expomf/patrocinadores/Logos-11.svg" alt=""></div>
+                        <div class="item"><img src="img/expomf/patrocinadores/Logos-12.svg" alt=""></div>
 
 
                     </div>
