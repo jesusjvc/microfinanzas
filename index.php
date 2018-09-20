@@ -190,7 +190,7 @@
                             <img src="img/ponentes/Georgina-Vázquez.jpg" alt="">
                             <div class="info">
                                 <h3>Georgina Vázquez</h3>
-                                <p>Gerente de Programa OMTRIX</p>
+                                <p>Consultora de Omtrix y de Antares Capital Advisors</p>
                             </div>
                         </div>
                         <div class="item">
