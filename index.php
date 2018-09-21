@@ -207,7 +207,13 @@
                                 <p>Director General del Financial Access Initiative</p>
                             </div>
                         </div>
-
+                        <div class="item">
+                            <img src="img/ponentes/Ryan-Newton.jpg" alt="">
+                            <div class="info">
+                                <h3>Ryan Newton</h3>
+                                <p>Gerente de Asesoramiento Estratégico en Women's World Banking </p>
+                            </div>
+                        </div>
                     </div>
                 </article>
             </section>
@@ -386,6 +392,14 @@
                         <div class="item"><img src="img/expomf/patrocinadores/Logos-10.svg" alt=""></div>
                         <div class="item"><img src="img/expomf/patrocinadores/Logos-11.svg" alt=""></div>
                         <div class="item"><img src="img/expomf/patrocinadores/Logos-12.svg" alt=""></div>
+                        <div class="item"><img src="img/expomf/patrocinadores/Logos-13.svg" alt=""></div>
+                        <div class="item"><img src="img/expomf/patrocinadores/Logos-14.svg" alt=""></div>
+                        <div class="item"><img src="img/expomf/patrocinadores/Logos-15.svg" alt=""></div>
+                        <div class="item"><img src="img/expomf/patrocinadores/Logos-16.svg" alt=""></div>
+                        <div class="item"><img src="img/expomf/patrocinadores/Logos-17.svg" alt=""></div>
+                        <div class="item"><img src="img/expomf/patrocinadores/CGAP-LOGO.png" alt=""></div>
+
+
 
 
                     </div>
@@ -420,7 +434,7 @@ Your browser does not support the video tag.
                         El <b>PRONAFIM</b> impulsa, con enfoque de género, la creación de micronegocios y el aumento de su productividad mediante servicios de microfinanzas con mejores condiciones. Esto lo realiza con la intermediación de Instituciones de Microfinanzas (IMF) y Organizaciones capacitadoras e incubadoras.</p>
 
                     <p>
-                        Entre las acciones del PRONAFIM destinadas a fomentar la competencia, el fortalecimiento y la profesionalización de las IMF para que ofrezcan servicios de microfinanzas más competitivos, innovadores y en mejores condiciones a la población microempresaria, se encuentra el Encuentro Nacional de Microfinanzas. Un foro destinado al análisis, la reflexión y el dialogo, que permite a los asistentes obtener aprendizajes, compartir mejores prácticas nacionales e internacionales y desarrollar ideas que contribuyan a fortalecer el sector de las microfinanzas en México.
+                        Entre las acciones del PRONAFIM destinadas a fomentar la competencia, el fortalecimiento y la profesionalización de las IMF para que ofrezcan servicios de microfinanzas más competitivos, innovadores y en mejores condiciones a la población microempresaria, se encuentra el Encuentro Nacional de Microfinanzas. Un foro destinado al análisis, la reflexión y el diálogo, que permite a los asistentes obtener aprendizajes, compartir mejores prácticas nacionales e internacionales y desarrollar ideas que contribuyan a fortalecer el sector de las microfinanzas en México.
                     </p>
 
                     <img src="img/pronafim/pronafim.svg" alt="" class="pronafim">
