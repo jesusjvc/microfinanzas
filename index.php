@@ -214,6 +214,13 @@
                                 <p>Gerente de Asesoramiento Estratégico en Women's World Banking </p>
                             </div>
                         </div>
+                        <div class="item">
+                            <img src="img/ponentes/FOTO-JUAN-VEGA.jpg" alt="">
+                            <div class="info">
+                                <h3>Juan Vega</h3>
+                                <p>Director Regional de EduFinance para América Latina    </p>
+                            </div>
+                        </div>
                     </div>
                 </article>
             </section>
@@ -383,7 +390,6 @@
                         <div class="item"><img src="img/expomf/patrocinadores/Logos-01.svg" alt=""></div>
                         <div class="item"><img src="img/expomf/patrocinadores/Logos-02.svg" alt=""></div>
                         <div class="item"><img src="img/expomf/patrocinadores/Logos-03.svg" alt=""></div>
-                        <div class="item"><img src="img/expomf/patrocinadores/Logos-04.svg" alt=""></div>
                         <div class="item"><img src="img/expomf/patrocinadores/Logos-05.svg" alt=""></div>
                         <div class="item"><img src="img/expomf/patrocinadores/Logos-06.svg" alt=""></div>
                         <div class="item"><img src="img/expomf/patrocinadores/Logos-07.svg" alt=""></div>
