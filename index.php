@@ -221,6 +221,63 @@
                                 <p>Director Regional de EduFinance para América Latina    </p>
                             </div>
                         </div>
+ 
+                        <div class="item">
+                            <img src="img/ponentes/Alonso-Castellot.jpg" alt="">
+                            <div class="info">
+                                <h3>Alonso Castellot</h3>
+                                <p>Director, Intelistregia  </p>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <img src="img/ponentes/Elisabeth-Rhyne.jpg" alt="">
+                            <div class="info">
+                                <h3>Elisabeth Rhyne</h3>
+                                <p>Directora Gerente del Centro para la Inclusión Financiera, Accion </p>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <img src="img/ponentes/Gerd-Hans.jpg" alt="">
+                            <div class="info">
+                                <h3>Gerd Hans Weißbach </h3>
+                                <p>Director General para América Latina y el Caribe, Sparkassenstiftung für internationale Kooperation    </p>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <img src="img/ponentes/Gustavo-Salaiz.jpg" alt="">
+                            <div class="info">
+                                <h3>Gustavo Salaiz</h3>
+                                <p>Director General Adjunto de Explotación de Información: CNBV  </p>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <img src="img/ponentes/Isaías-Naim-López.jpg" alt="">
+                            <div class="info">
+                                <h3>Isaías Naim López </h3>
+                                <p>Director General Adjunto de Planeación y Política Pública, PRONAFIM</p>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <img src="img/ponentes/Leo-Abruzzese.jpg" alt="">
+                            <div class="info">
+                                <h3>Leo Abruzzese</h3>
+                                <p>Director Global de Política Pública, The Economist Intelligence Unit </p>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <img src="img/ponentes/Leonardo-Torres-Góngora.jpg" alt="">
+                            <div class="info">
+                                <h3>Leonardo Torres Góngora</h3>
+                                <p>Director General de Educación Financiera, CONDUSEF</p>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <img src="img/ponentes/Pablo-Cotler.jpg" alt="">
+                            <div class="info">
+                                <h3>Pablo Cotler Ávalos</h3>
+                                <p>Académico del Departamento de Economía, Universidad Iberoamericana</p>
+                            </div>
+                        </div>
                     </div>
                 </article>
             </section>
