@@ -352,7 +352,8 @@ img {
 #programa table {
   color: #fff;
   text-align: left;
-  margin-bottom: 50px;
+  margin-bottom: 290px!important;
+  padding-bottom: 90px;
   width: 100%;
 }
 #programa table tr {
@@ -360,14 +361,13 @@ img {
 }
 #programa table tr td {
   padding: 5px 10px;
+  /*  &:last-child {
+                    width: 85%;
+                }*/
   position: relative;
 }
 #programa table tr td:first-child {
-  width: 15%;
   font-size: 1.2em;
-}
-#programa table tr td:last-child {
-  width: 85%;
 }
 #programa table tr td span.moderador {
   position: absolute;
