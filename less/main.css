@@ -337,6 +337,7 @@ img {
 }
 .plano {
   margin-bottom: -40px;
+  width: 100%;
 }
 #programa #intro {
   background: url(../img/programa/background.png) no-repeat center top;
@@ -354,10 +355,11 @@ img {
   min-height: 500px;
 }
 #programa table {
-  color: #fff;
+  color: black;
   text-align: left;
   margin-bottom: 290px!important;
   padding-bottom: 90px;
+  background-color: white;
   width: 100%;
 }
 #programa table tr {
@@ -365,19 +367,35 @@ img {
 }
 #programa table tr td {
   padding: 5px 10px;
-  /*  &:last-child {
+  /* &:first-child {
+                  //  width: 15%;
+                    font-size: 1.2em;
+                }
+              /*  &:last-child {
                     width: 85%;
                 }*/
   position: relative;
-}
-#programa table tr td:first-child {
-  font-size: 1.2em;
 }
 #programa table tr td span.moderador {
   position: absolute;
   bottom: 20px;
   font-size: 0.7em;
   left: 10px;
+}
+#programa table tr.simulacion {
+  background-color: #6d6e71;
+  color: white;
+}
+#programa table tr.magistral {
+  background-color: #94021d;
+  color: white;
+}
+#programa table tr.clausura {
+  background-color: #da1c5c;
+  color: white;
+}
+#programa table tr.coctel {
+  background-color: #888a8d;
 }
 #expomf #intro {
   background: url(../img/expomf/background.png) no-repeat center top;

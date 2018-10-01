@@ -306,6 +306,8 @@ img {
 
 .plano {
        margin-bottom: -40px;
+        width: 100%;
+
 }
 #programa {
     #intro {
@@ -327,18 +329,18 @@ img {
     }
 
     table {
-        color: #fff;
+        color: black;
         text-align: left;
         margin-bottom: 290px!important;
         padding-bottom: 90px;
-        
+        background-color: white;
         width: 100%;
         
         tr {
             vertical-align: top;
             td {
                 padding: 5px 10px;
-                &:first-child {
+               /* &:first-child {
                   //  width: 15%;
                     font-size: 1.2em;
                 }
@@ -353,6 +355,22 @@ img {
                     font-size: 0.7em;
                     left: 10px;
                 }
+            }
+            
+            &.simulacion {
+                background-color: #6d6e71;
+                color: white;
+            }
+            &.magistral {
+                background-color: #94021d;
+                color: white;
+            }
+            &.clausura {
+              background-color: #da1c5c;
+                                color: white;
+            }
+            &.coctel {
+                background-color: #888a8d;
             }
         }
     }

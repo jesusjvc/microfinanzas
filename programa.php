@@ -47,92 +47,75 @@
 <td width="586" style="text-align: center; vertical-align: middle;"><strong>Ponentes</strong></td>
 </tr>
 <tr>
-<td width="123" ><strong><em>9:30 - 10:45</em></strong>
+<td width="123" ><strong>08:30 a 09:30</strong></td>
+<td width="161">
+<strong>Acceso salones Olmeca
+</strong>
 
-<strong><em> </em></strong>
-
-<strong> </strong></td>
+&nbsp;</td>
+<td width="586">Registro de participantes</td>
+</tr>
+<tr class="magistral">
+<td width="123" ><strong>9:30 - 10:45</strong></td>
 <td width="161"><strong>Inauguración </strong><br>
 
 <strong>(Salón Olmeca 4)</strong>
 
 &nbsp;</td>
-<td width="586"><strong> </strong>
-
-<strong>Ildefonso Guajardo Villarreal</strong>, Secretario de Economía
-
-<strong>Cynthia Villarreal Muraira,</strong> Coordinadora General del Programa Nacional de Financiamiento al Microempresario y a la Mujer Rural (PRONAFIM)<br>
-
-<strong>Bernardo González Rosas, </strong>Presidente de la Comisión Nacional Bancaria y de Valores (CNBV)<br>
-
-<strong>Mario Di Costanzo Armenta, </strong>Presidente de la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros (CONDUSEF)<br>
-
-<strong>Narcedalia Ramirez Pineda,  </strong>Directora General del Instituto Nacional de la Economía Social (INAES)<br>
-
-<strong>Enrique Martínez y Morales,  </strong>Director General de la Financiera Nacional de Desarrollo Agropecuario, Rural, Forestal y Pesquero (FND)
-<br>
-<strong>Virgilio Andrade Martínez, </strong>Director General del Banco del Ahorro Nacional y Servicios Financieros (BANSEFI)<br>
-
-<strong>Diego Filiberto Duque Robledo, </strong>Presidente del Consejo Directivo de ProDesarrollo<br>
-
-&nbsp;</td>
+<td width="586"><strong>Presidida por el Secretario de Economía, Ildefonso Guajardo Villarreal</strong></td>
 </tr>
-<tr>
+<tr class="magistral">
 <td width="123"><strong>10:45 -12:15</strong>
 
-<strong> </strong></td>
+ </td>
 <td width="161"><strong>Plenaria Inaugural</strong><br>
 
 A cuatro décadas de su creación, una perspectiva global y nacional de las microfinanzas<br>
 
 <strong>(Salón Olmeca 4)</strong></td>
-<td width="586"><strong> </strong>
+<td width="586"> 
 
-<strong>Elisabeth Rhyne</strong>, Directora Gerente del Centro para la Inclusión Financiera, <em>Acción</em><br>
+<strong>• Elisabeth Rhyne</strong>, Directora Gerente del Centro para la Inclusión Financiera, <em>Acción</em><br>
 
-<strong>Leo Abruzzese</strong>, Director Global de Política Pública, <em>The Economist Intelligence Unit</em><br>
+<strong>• Leo Abruzzese</strong>, Director Global de Política Pública, <em>The Economist Intelligence Unit</em><br>
 
-<strong>Georgina Vázquez</strong>, Gerente de Programa, OMTRIX<br>
+<strong>• Georgina Vázquez</strong>, Gerente de Programa, OMTRIX<br>
 
-<strong>Fernando Sandoval Oseguera</strong>, Director de Instituciones Financieras, <em>HR Ratings</em><br>
+<strong>• Fernando Sandoval Oseguera</strong>, Director de Instituciones Financieras, <em>HR Ratings</em><br>
 
-<strong><u>Moderadora</u></strong><strong>: Lizbeth Fajury, </strong>Asociada, Marulanda &amp; Consultores
+<strong>MODERADORA:</strong><strong>: Lizbeth Fajury, </strong>Asociada, Marulanda &amp; Consultores
 
-<strong> </strong></td>
+ </td>
 </tr>
 <tr>
 <td width="123"><strong>12:15 – 12:30</strong></td>
-<td colspan="2" width="747" style="text-align: center; vertical-align: middle;"><em>Receso / Networking </em><strong>(Salón Olmeca 2)</strong></td>
+<td colspan="2" width="747" style="text-align: center; vertical-align: middle;">RECESO / NETWORKING <strong>(Salón Olmeca 2)</strong></td>
 </tr>
-<tr>
+<tr class="simulacion">
 <td width="123"><strong>12:30 -13:45</strong>
 
-<strong> </strong>
+ 
 
-<strong> </strong></td>
+ </td>
 <td width="161"><strong>Simultánea IA</strong><br>
 
 Innovando en productos microfinancieros<br>
 
 <strong>(Salón Olmeca 4)</strong></td>
-<td width="586"><strong> </strong>
+<td width="586">
 
-<strong>Ryan Newton</strong>, Gerente en Asesoramiento Estratégico, <em>Women’s World Banking</em><br>
+<strong>• Ryan Newton</strong>, Gerente en Asesoramiento Estratégico, <em>Women’s World Banking</em><br>
 
-<strong>Lucía Pérez, </strong>Gerente de Operaciones, VisionFund México<br>
+<strong>• Lucía Pérez, </strong>Gerente de Operaciones, VisionFund México<br>
 
-<strong>Fernando Flores Mendoza</strong>, Representante Legal, Credicrece<br>
+<strong>• Fernando Flores Mendoza</strong>, Representante Legal, Credicrece<br>
 
-<strong><u>Moderador: </u></strong><strong>Isaías Naim López</strong>, Director General Adjunto de Planeación y Política Pública,  PRONAFIM
+<strong>MODERADOR:</strong><strong>Isaías Naim López</strong>, Director General Adjunto de Planeación y Política Pública,  PRONAFIM
 
 &nbsp;</td>
 </tr>
-<tr>
-<td width="123"><strong>12:30 –13:45</strong>
-
-<strong> </strong>
-
-<strong> </strong></td>
+<tr class="simulacion">
+<td width="123"><strong>12:30 –13:45</strong></td>
 <td width="161"><strong>Simultánea IB</strong><br>
 
 ¿Qué está pasando con las tasas de interés?<br>
@@ -140,61 +123,57 @@ Innovando en productos microfinancieros<br>
 <strong>(Salón Olmeca 1)</strong>
 
 &nbsp;</td>
-<td width="586"><strong> </strong>
+<td width="586"><strong>• Marco Antonio López Pérez,</strong> Vicepresidente de Supervisión de Grupos e Intermediarios Financieros, CNBV<br>
 
-<strong>Marco Antonio López Pérez,</strong> Vicepresidente de Supervisión de Grupos e Intermediarios Financieros, CNBV<br>
+<strong>• Pablo Cotler Ávalos</strong>, Académico del Departamento de Economía, Universidad Iberoamericana<br>
 
-<strong>Pablo Cotler Ávalos</strong>, Académico del Departamento de Economía, Universidad Iberoamericana<br>
+<strong>• Juan Francisco Fernández</strong>, Presidente del Consejo de Administración, Crediclub<br>
 
-<strong>Juan Francisco Fernández</strong>, Presidente del Consejo de Administración, Crediclub<br>
-
-<strong><u>Moderador</u></strong><strong>: Jorge Mario Soto Romero, </strong>Titular del Órgano Interno de Control, Secretaría de Economía
+<strong>MODERADOR: Jorge Mario Soto Romero, </strong>Titular del Órgano Interno de Control, Secretaría de Economía
 
 &nbsp;</td>
 </tr>
 <tr>
 <td width="123"><strong>13:45 – 15:15</strong></td>
-<td colspan="2" width="747" style="text-align: center; vertical-align: middle;"><em>COMIDA </em><strong>(Salón Mexica 1)</strong></td>
+<td colspan="2" width="747" style="text-align: center; vertical-align: middle;">COMIDA <strong>(Salón Mexica 1)</strong></td>
 </tr>
-<tr>
-<td width="123"><strong>15:15 -16:30</strong>
-
-<strong> </strong></td>
+<tr class="simulacion">
+<td width="123"><strong>15:15 -16:30</strong></td>
 <td width="161"><strong>Simultánea IIA</strong><br>
 
 Rompiendo paradigmas en la educación financiera y empresarial<br>
 
 <strong>(Salón Olmeca 4)</strong></td>
-<td width="586"><strong> </strong>
+<td width="586"> 
 
-<strong>Juan Navarrete, </strong>Director de Negocios y Desarrollo de Alianzas, Fundación Capital<br>
+<strong>• Juan Navarrete, </strong>Director de Negocios y Desarrollo de Alianzas, Fundación Capital<br>
 
-<strong>María Matilde Olazábal Forcén</strong>, Directora, <em>Freedom From Hunger</em> México<br>
+<strong>• María Matilde Olazábal Forcén</strong>, Directora, <em>Freedom From Hunger</em> México<br>
 
-<strong>Juan Vega González</strong>, Gerente de Proyecto para América Latina, <em>EduFinance: Opportunity International</em><br>
+<strong>• Juan Vega González</strong>, Gerente de Proyecto para América Latina, <em>EduFinance: Opportunity International</em><br>
 
-<strong><u>Moderador</u></strong><strong>: </strong> <strong>Leonardo Jorge Torres Góngora,</strong> Director General de Educación Financiera, CONDUSEF
+<strong>MODERADOR: </strong> <strong>Leonardo Jorge Torres Góngora,</strong> Director General de Educación Financiera, CONDUSEF
 
 &nbsp;</td>
 </tr>
-<tr>
+<tr class="simulacion">
 <td width="123"><strong>15:15-16:30</strong>
 
-<strong> </strong></td>
+ </td>
 <td width="161"><strong>Simultánea IIB</strong><br>
 
 Nuevas tecnologías: ideas que impulsan las microfinanzas<br>
 
 <strong>(Salón Olmeca 1)</strong></td>
-<td width="586"><strong> </strong>
+<td width="586"> 
 
-<strong>René Romero Arrechavala, </strong> Asesor Senior de Centro América y el Caribe, <em>Amarante Consulting</em><br>
+<strong>• René Romero Arrechavala, </strong> Asesor Senior de Centro América y el Caribe, <em>Amarante Consulting</em><br>
 
-<strong>Alonso Castellot, </strong> Director, Intelistregia<br>
+<strong>• Alonso Castellot, </strong> Director, Intelistregia<br>
 
-<strong>Gerd Hans Weißbach, </strong>Director para América Latina y el Caribe, <em>Sparkassenstiftung für Internationale Kooperation</em><br>
+<strong>• Gerd Hans Weißbach, </strong>Director para América Latina y el Caribe, <em>Sparkassenstiftung für Internationale Kooperation</em><br>
 
-<strong><u>Moderador:</u></strong> <strong> Gustavo Salaiz  Gabriel, </strong>Director General Adjunto de Explotación de Información, CNBV
+<strong>MODERADOR:</strong> <strong> Gustavo Salaiz  Gabriel, </strong>Director General Adjunto de Explotación de Información, CNBV
 
 &nbsp;</td>
 </tr>
@@ -202,38 +181,34 @@ Nuevas tecnologías: ideas que impulsan las microfinanzas<br>
 <td width="123"><strong>16:30 – 16:45</strong></td>
 <td colspan="2" width="747" style="text-align: center; vertical-align: middle;"><em> </em>
 
-<em>Receso / Networking </em><strong>(Salón Olmeca 2)</strong>
+RECESO / NETWORKING <strong>(Salón Olmeca 2)</strong>
 
 &nbsp;</td>
 </tr>
-<tr>
+<tr class="magistral">
 <td width="123"><strong>16:45-17:45</strong>
 
-<strong> </strong></td>
+ </td>
 <td width="161"><strong>Conferencia Magistral</strong><br>
 
 Evolución y desafíos en las microfinanzas<br>
 
 <strong>(Salón Olmeca 4)</strong></td>
-<td width="586">&nbsp;
-
-<strong> </strong>
-
-<strong>Timothy Ogden,</strong> Director General del <em>Financial Access Initiative, New York University</em></td>
+<td width="586"><strong>• Timothy Ogden,</strong> Director General del <em>Financial Access Initiative, New York University</em></td>
 </tr>
-<tr>
+<tr class="clausura">
 <td width="123"><strong>17:45 –18:00</strong>
 
-<strong> </strong></td>
-<td colspan="2" width="747" style="text-align: center; vertical-align: middle;"><strong>Clausura </strong><strong>(Salón Olmeca 4)</strong>
+ </td>
+<td colspan="2" width="747" style="text-align: center; vertical-align: middle;">CLAUSURA <strong>(Salón Olmeca 4)</strong>
 
 &nbsp;</td>
 </tr>
-<tr>
+<tr class="coctel">
 <td width="123"><strong>18:00</strong></td>
-<td colspan="2" width="747" style="text-align: center; vertical-align: middle;"><em> </em>
+<td colspan="2" width="747" style="text-align: center; vertical-align: middle;">
 
-CÓCTEL<strong>(Salón Mexica 1)</strong>
+CÓCTEL <strong>(Salón Mexica 1)</strong>
 
 &nbsp;</td>
 </tr>
