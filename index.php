@@ -81,7 +81,7 @@
                     <p>La ubicación de este Centro de Convenciones permite llegar en transporte privado y público, se encuentra muy cerca de una de las principales avenidas de la ciudad como lo es Av. Insurgentes Sur (estación Polyforum del metrobús). La entrada peatonal será por la calle de Filadelfia.</p>
                     <p>El costo del estacionamiento del WTC es de $40 pesos por hora. <br> Si la estancia dura entre 4 y 12 horas el costo es de $150 pesos.</p>
                 </article>
-
+                 <img src="img/XVII-EncMF-PAP-Plano%20WTC-MR++.jpg" alt="" class="plano"> 
                 <div id="mapa">
                     <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3763.4391868586663!2d-99.17377704404144!3d19.393421118011815!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x6e35698f0852629c!2sWorld+Trade+Center+Ciudad+de+M%C3%A9xico!5e0!3m2!1ses-419!2smx!4v1535723400206" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
                 </div>
@@ -176,7 +176,7 @@
                             <img src="img/ponentes/Rene-Romero-Arrechavala-27.jpg" alt="">
                             <div class="info">
                                 <h3>René Romero Arrechavala</h3>
-                                <p>Consultor Senior de Centro América y el Caribe de Amarante Consulting</p>
+                                <p>Asesor Senior para Centroamérica y el Caribe en Amarante Consulting</p>
                             </div>
                         </div>
                         <div class="item">
@@ -246,8 +246,8 @@
                         <div class="item">
                             <img src="img/ponentes/Gustavo-Salaiz.jpg" alt="">
                             <div class="info">
-                                <h3>Gustavo Salaiz</h3>
-                                <p>Director General Adjunto de Explotación de Información: CNBV  </p>
+                                <h3>Gustavo Salaiz Gabriel</h3>
+                                <p>Director General Adjunto de Supervisión de Modelos Novedosos,CNBV  </p>
                             </div>
                         </div>
                         <div class="item">

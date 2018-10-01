@@ -335,6 +335,9 @@ img {
 #ponentes #intro article .ponentes .item:hover {
   transform: translateY(-10px);
 }
+.plano {
+  margin-bottom: -40px;
+}
 #programa #intro {
   background: url(../img/programa/background.png) no-repeat center top;
   padding-top: 160px;
