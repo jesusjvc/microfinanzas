@@ -380,7 +380,7 @@
                             <div class="info">
                                 <h3>Hotel Isaaya</h3>
                                 <p class="texto">
-                                    Dakota No. 155, Col. Nápole<br> Tels.: (55) 1085 0353<br> (55) 7587 5528
+                                    Dakota No. 155, Col. Nápoles<br> Tels.: (55) 1085 0353<br> (55) 7587 5528
                                 </p>
                                 <p class="precio">
                                     Lunes y Viernes : $ 1,740<br> Mar, Mier y Jue : $ 1,814<br> Sab Dom : $ 1,599<br>
