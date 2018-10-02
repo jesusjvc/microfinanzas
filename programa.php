@@ -39,7 +39,7 @@
                 
                 <article>
                   
-                  <table class="programa" border="1" width="0">
+                  <table class="programa" width="0">
 <tbody>
 <tr>
 <td width="123" style="text-align: center; vertical-align: middle;"><strong>Horario</strong></td>
@@ -75,15 +75,15 @@ A cuatro décadas de su creación, una perspectiva global y nacional de las micr
 <strong>(Salón Olmeca 4)</strong></td>
 <td width="586"> 
 
-<strong>• Elisabeth Rhyne</strong>, Directora Gerente del Centro para la Inclusión Financiera, <em>Acción</em><br>
+<strong>• Elisabeth Rhyne</strong>, Directora Gerente del Centro para la Inclusión Financiera, Acción<br>
 
-<strong>• Leo Abruzzese</strong>, Director Global de Política Pública, <em>The Economist Intelligence Unit</em><br>
+<strong>• Leo Abruzzese</strong>, Director Global de Política Pública, The Economist Intelligence Unit<br>
 
 <strong>• Georgina Vázquez</strong>, Gerente de Programa, OMTRIX<br>
 
-<strong>• Fernando Sandoval Oseguera</strong>, Director de Instituciones Financieras, <em>HR Ratings</em><br>
+<strong>• Fernando Sandoval Oseguera</strong>, Director de Instituciones Financieras, HR Ratings<br>
 
-<strong>MODERADORA:</strong><strong>: Lizbeth Fajury, </strong>Asociada, Marulanda &amp; Consultores
+<strong>MODERADORA: Lizbeth Fajury, </strong>Asociada, Marulanda &amp; Consultores
 
  </td>
 </tr>
@@ -104,13 +104,13 @@ Innovando en productos microfinancieros<br>
 <strong>(Salón Olmeca 4)</strong></td>
 <td width="586">
 
-<strong>• Ryan Newton</strong>, Gerente en Asesoramiento Estratégico, <em>Women’s World Banking</em><br>
+<strong>• Ryan Newton</strong>, Gerente en Asesoramiento Estratégico, Women’s World Banking<br>
 
 <strong>• Lucía Pérez, </strong>Gerente de Operaciones, VisionFund México<br>
 
 <strong>• Fernando Flores Mendoza</strong>, Representante Legal, Credicrece<br>
 
-<strong>MODERADOR:</strong><strong>Isaías Naim López</strong>, Director General Adjunto de Planeación y Política Pública,  PRONAFIM
+<strong>MODERADOR: Isaías Naim López</strong>, Director General Adjunto de Planeación y Política Pública,  PRONAFIM
 
 &nbsp;</td>
 </tr>
@@ -148,11 +148,11 @@ Rompiendo paradigmas en la educación financiera y empresarial<br>
 
 <strong>• Juan Navarrete, </strong>Director de Negocios y Desarrollo de Alianzas, Fundación Capital<br>
 
-<strong>• María Matilde Olazábal Forcén</strong>, Directora, <em>Freedom From Hunger</em> México<br>
+<strong>• María Matilde Olazábal Forcén</strong>, Directora, Freedom From Hunger México<br>
 
-<strong>• Juan Vega González</strong>, Gerente de Proyecto para América Latina, <em>EduFinance: Opportunity International</em><br>
+<strong>• Juan Vega González</strong>, Gerente de Proyecto para América Latina, EduFinance: Opportunity International<br>
 
-<strong>MODERADOR: </strong> <strong>Leonardo Jorge Torres Góngora,</strong> Director General de Educación Financiera, CONDUSEF
+<strong>MODERADOR: Leonardo Jorge Torres Góngora,</strong> Director General de Educación Financiera, CONDUSEF
 
 &nbsp;</td>
 </tr>
@@ -167,21 +167,19 @@ Nuevas tecnologías: ideas que impulsan las microfinanzas<br>
 <strong>(Salón Olmeca 1)</strong></td>
 <td width="586"> 
 
-<strong>• René Romero Arrechavala, </strong> Asesor Senior de Centro América y el Caribe, <em>Amarante Consulting</em><br>
+<strong>• René Romero Arrechavala, </strong>Asesor Senior de Centro América y el Caribe, Amarante Consulting<br>
 
 <strong>• Alonso Castellot, </strong> Director, Intelistregia<br>
 
-<strong>• Gerd Hans Weißbach, </strong>Director para América Latina y el Caribe, <em>Sparkassenstiftung für Internationale Kooperation</em><br>
+<strong>• Gerd Hans Weißbach, </strong>Director para América Latina y el Caribe, Sparkassenstiftung für Internationale Kooperation<br>
 
-<strong>MODERADOR:</strong> <strong> Gustavo Salaiz  Gabriel, </strong>Director General Adjunto de Explotación de Información, CNBV
+<strong>MODERADOR: Gustavo Salaiz  Gabriel, </strong>Director General Adjunto de Explotación de Información, CNBV
 
 &nbsp;</td>
 </tr>
 <tr>
 <td width="123"><strong>16:30 – 16:45</strong></td>
-<td colspan="2" width="747" style="text-align: center; vertical-align: middle;"><em> </em>
-
-RECESO / NETWORKING <strong>(Salón Olmeca 2)</strong>
+<td colspan="2" width="747" style="text-align: center; vertical-align: middle;">RECESO / NETWORKING <strong>(Salón Olmeca 2)</strong>
 
 &nbsp;</td>
 </tr>
@@ -194,7 +192,7 @@ RECESO / NETWORKING <strong>(Salón Olmeca 2)</strong>
 Evolución y desafíos en las microfinanzas<br>
 
 <strong>(Salón Olmeca 4)</strong></td>
-<td width="586"><strong>• Timothy Ogden,</strong> Director General del <em>Financial Access Initiative, New York University</em></td>
+<td width="586"><strong>• Timothy Ogden,</strong> Director General del Financial Access Initiative, New York University</td>
 </tr>
 <tr class="clausura">
 <td width="123"><strong>17:45 –18:00</strong>
