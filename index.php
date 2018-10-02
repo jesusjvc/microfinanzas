@@ -460,7 +460,7 @@
                         <div class="item"><img src="img/expomf/patrocinadores/Logos-15.svg" alt=""></div>
                         <div class="item"><img src="img/expomf/patrocinadores/Logos-16.svg" alt=""></div>
                         <div class="item"><img src="img/expomf/patrocinadores/Logos-17.svg" alt=""></div>
-                        <div class="item"><img src="img/expomf/patrocinadores/CGAP-LOGO.png" alt=""></div>
+                        <div class="item"><img src="img/expomf/patrocinadores/Logos-18.svg" alt=""></div>
 
 
 
