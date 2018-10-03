@@ -78,7 +78,7 @@ A cuatro décadas de su creación, una perspectiva global y nacional de las micr
 
 <strong>• Fernando Sandoval Oseguera</strong>, Director de Instituciones Financieras, HR Ratings<br>
 
-<small>• MODERADORA:</small> Lizbeth Fajury, Asociada, Marulanda &amp; Consultores
+<small>• MODERADORA:</small> <strong>Lizbeth Fajury</strong>, Asociada, Marulanda &amp; Consultores
 
  </td>
 </tr>
@@ -105,7 +105,7 @@ Innovando en productos microfinancieros<br>
 
 <strong>• Juan Antonio Hernández Martínez</strong>, Representante Legal, Credicrece<br>
 
-<small>MODERADOR:</small> Isaías Naim López, Director General Adjunto de Planeación y Política Pública,  PRONAFIM
+    <small>MODERADOR:</small> <strong>Isaías Naim López</strong>strong>, Director General Adjunto de Planeación y Política Pública,  PRONAFIM
 
 &nbsp;</td>
 </tr>
@@ -124,7 +124,7 @@ Innovando en productos microfinancieros<br>
 
 <strong>• Juan Francisco Fernández</strong>, Presidente del Consejo de Administración, Crediclub<br>
 
-<small>MODERADOR:</small> Jorge Mario Soto Romero, Titular del Órgano Interno de Control, Secretaría de Economía
+    <small>MODERADOR:</small> <strong>Jorge Mario Soto Romero</strong>strong>, Titular del Órgano Interno de Control, Secretaría de Economía
 
 &nbsp;</td>
 </tr>
@@ -146,8 +146,7 @@ Rompiendo paradigmas en la educación financiera y empresarial<br>
 <strong>• María Matilde Olazábal Forcén</strong>, Directora, Freedom From Hunger México<br>
 
 <strong>• Juan Vega González</strong>, Gerente de Proyecto para América Latina, EduFinance: Opportunity International<br>
-
-<strong><small>MODERADOR:</small> Leonardo Jorge Torres Góngora, Director General de Educación Financiera, CONDUSEF
+<small>MODERADOR:</small> <strong>Leonardo Jorge Torres Góngora</strong>strong>, Director General de Educación Financiera, CONDUSEF
 
 &nbsp;</td>
 </tr>
@@ -168,7 +167,7 @@ Nuevas tecnologías: ideas que impulsan las microfinanzas<br>
 
 <strong>• Gerd Hans Weißbach, </strong>Director para América Latina y el Caribe, Sparkassenstiftung für Internationale Kooperation<br>
 
-<strong><small>MODERADOR:</small> Gustavo Salaiz  Gabriel, Director General Adjunto de Explotación de Información, CNBV
+    <small>MODERADOR:</small> <strong>Gustavo Salaiz  Gabriel</strong>, Director General Adjunto de Explotación de Información, CNBV
 
 &nbsp;</td>
 </tr>
