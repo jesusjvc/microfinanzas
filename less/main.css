@@ -342,7 +342,8 @@ img {
 #programa #intro {
   background: url(../img/programa/background.png) no-repeat center top;
   background-size: cover;
-  top: -140px;
+  top: -350px;
+  margin-bottom: -346px;
   height: auto;
 }
 #programa #intro img.borde {
