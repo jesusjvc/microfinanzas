@@ -124,7 +124,7 @@ Innovando en productos microfinancieros<br>
 
 <strong>• Juan Francisco Fernández</strong>, Presidente del Consejo de Administración, Crediclub<br>
 
-    <small>MODERADOR:</small> <strong>Jorge Mario Soto Romero</strong>strong>, Titular del Órgano Interno de Control, Secretaría de Economía
+    <small>MODERADOR:</small> <strong>Jorge Mario Soto Romero</strong>, Titular del Órgano Interno de Control, Secretaría de Economía
 
 &nbsp;</td>
 </tr>
@@ -146,7 +146,7 @@ Rompiendo paradigmas en la educación financiera y empresarial<br>
 <strong>• María Matilde Olazábal Forcén</strong>, Directora, Freedom From Hunger México<br>
 
 <strong>• Juan Vega González</strong>, Gerente de Proyecto para América Latina, EduFinance: Opportunity International<br>
-<small>MODERADOR:</small> <strong>Leonardo Jorge Torres Góngora</strong>strong>, Director General de Educación Financiera, CONDUSEF
+<small>MODERADOR:</small> <strong>Leonardo Jorge Torres Góngora</strong>, Director General de Educación Financiera, CONDUSEF
 
 &nbsp;</td>
 </tr>
