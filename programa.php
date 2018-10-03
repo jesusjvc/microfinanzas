@@ -105,7 +105,7 @@ Innovando en productos microfinancieros<br>
 
 <strong>• Juan Antonio Hernández Martínez</strong>, Representante Legal, Credicrece<br>
 
-    <small>MODERADOR:</small> <strong>Isaías Naim López</strong>strong>, Director General Adjunto de Planeación y Política Pública,  PRONAFIM
+    <small>MODERADOR:</small> <strong>Isaías Naim López</strong>, Director General Adjunto de Planeación y Política Pública,  PRONAFIM
 
 &nbsp;</td>
 </tr>
