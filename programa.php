@@ -103,7 +103,7 @@ Innovando en productos microfinancieros<br>
 
 <strong>• Lucía Pérez, </strong>Gerente de Operaciones, VisionFund México<br>
 
-<strong>• Fernando Flores Mendoza</strong>, Representante Legal, Credicrece<br>
+<strong>• Juan Antonio Hernández Martínez</strong>, Representante Legal, Credicrece<br>
 
 <small>MODERADOR:</small> Isaías Naim López, Director General Adjunto de Planeación y Política Pública,  PRONAFIM
 

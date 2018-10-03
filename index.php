@@ -285,6 +285,32 @@
                                 <p>Académico del Departamento de Economía, Universidad Iberoamericana</p>
                             </div>
                         </div>
+                        
+                        <div class="item">
+                            <img src="img/ponentes/Juan-Hernandez.jpg" alt="">
+                            <div class="info">
+                                <h3>Juan Antonio Hernández Martínez</h3>
+                                <p>Director del Programa de Seguridad Alimentaria para Zonas Rurales de la FAO en el Estado de México</p>
+                            </div>
+                        </div>
+                        
+                        <div class="item">
+                            <img src="img/ponentes/Lucia-Perez.jpg" alt="">
+                            <div class="info">
+                                <h3>Lucia Pérez Torres</h3>
+                                <p>Directora de Operaciones de Vision Fund México</p>
+                            </div>
+                        </div>
+                        
+                           <div class="item">
+                            <img src="img/ponentes/MariaMatilde_FFH.jpg" alt="">
+                            <div class="info">
+                                <h3>María Matilde Olazábal Forcén</h3>
+                                <p>Directora, Freedom From Hunger México</p>
+                            </div>
+                        </div>
+                        
+                        
                     </div>
                 </article>
             </section>
@@ -467,8 +493,8 @@
                         <div class="item"><img src="img/expomf/patrocinadores/Logos-15.svg" alt=""></div>
                         <div class="item"><img src="img/expomf/patrocinadores/Logos-16.svg" alt=""></div>
                         <div class="item"><img src="img/expomf/patrocinadores/Logos-17.svg" alt=""></div>
-                        <div class="item"><img src="img/expomf/patrocinadores/CGAP-LOGO.png" alt=""></div>
-
+                        <div class="item"><img src="img/expomf/patrocinadores/Logos-18.svg" alt=""></div>
+                        <div class="item"><img src="img/expomf/patrocinadores/Logos-19.svg" alt=""></div>
 
 
 
