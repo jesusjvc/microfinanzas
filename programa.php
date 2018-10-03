@@ -41,30 +41,25 @@
                   
                   <table class="programa" width="0">
 <tbody>
-<tr>
+<tr class="blanco">
 <td width="123" style="text-align: center; vertical-align: middle;"><strong>Horario</strong></td>
 <td width="161" style="text-align: center; vertical-align: middle;"><strong>Tema</strong></td>
 <td width="586" style="text-align: center; vertical-align: middle;"><strong>Ponentes</strong></td>
 </tr>
 <tr>
 <td width="123" ><strong>08:30 a 09:30</strong></td>
-<td width="161">
-<strong>Acceso salones Olmeca
-</strong>
-
-&nbsp;</td>
-<td width="586">Registro de participantes</td>
+    <td colspan="2" width="747" style="text-align: center; vertical-align: middle;">REGISTRO DE PARTICIPANTES <small>(Accesos Salones Olmeca)</small> </td>
 </tr>
 <tr class="magistral">
 <td width="123" ><strong>9:30 - 10:45</strong></td>
 <td width="161"><strong>Inauguración </strong><br>
 
-<strong>(Salón Olmeca 4)</strong>
+<small>(Salón Olmeca 4)</small>
 
 &nbsp;</td>
-<td width="586"><strong>Presidida por el Secretario de Economía, Ildefonso Guajardo Villarreal</strong></td>
+<td width="586" style="vertical-align: middle;"><strong>Presidida por el Secretario de Economía, Ildefonso Guajardo Villarreal</strong></td>
 </tr>
-<tr class="magistral">
+<tr class="primera">
 <td width="123"><strong>10:45 -12:15</strong>
 
  </td>
@@ -72,8 +67,8 @@
 
 A cuatro décadas de su creación, una perspectiva global y nacional de las microfinanzas<br>
 
-<strong>(Salón Olmeca 4)</strong></td>
-<td width="586"> 
+<small>(Salón Olmeca 4)</small></td>
+<td width="586" style="vertical-align: middle;"> 
 
 <strong>• Elisabeth Rhyne</strong>, Directora Gerente del Centro para la Inclusión Financiera, Acción<br>
 
@@ -83,13 +78,13 @@ A cuatro décadas de su creación, una perspectiva global y nacional de las micr
 
 <strong>• Fernando Sandoval Oseguera</strong>, Director de Instituciones Financieras, HR Ratings<br>
 
-<strong>MODERADORA: Lizbeth Fajury, </strong>Asociada, Marulanda &amp; Consultores
+<small>• MODERADORA:</small> Lizbeth Fajury, Asociada, Marulanda &amp; Consultores
 
  </td>
 </tr>
 <tr>
 <td width="123"><strong>12:15 – 12:30</strong></td>
-<td colspan="2" width="747" style="text-align: center; vertical-align: middle;">RECESO / NETWORKING <strong>(Salón Olmeca 2)</strong></td>
+<td colspan="2" width="747" style="text-align: center; vertical-align: middle;">RECESO / NETWORKING <small>(Salón Olmeca 2)</small></td>
 </tr>
 <tr class="simulacion">
 <td width="123"><strong>12:30 -13:45</strong>
@@ -101,7 +96,7 @@ A cuatro décadas de su creación, una perspectiva global y nacional de las micr
 
 Innovando en productos microfinancieros<br>
 
-<strong>(Salón Olmeca 4)</strong></td>
+<small>(Salón Olmeca 4)</small></td>
 <td width="586">
 
 <strong>• Ryan Newton</strong>, Gerente en Asesoramiento Estratégico, Women’s World Banking<br>
@@ -110,7 +105,7 @@ Innovando en productos microfinancieros<br>
 
 <strong>• Fernando Flores Mendoza</strong>, Representante Legal, Credicrece<br>
 
-<strong>MODERADOR: Isaías Naim López</strong>, Director General Adjunto de Planeación y Política Pública,  PRONAFIM
+<small>MODERADOR:</small> Isaías Naim López, Director General Adjunto de Planeación y Política Pública,  PRONAFIM
 
 &nbsp;</td>
 </tr>
@@ -120,7 +115,7 @@ Innovando en productos microfinancieros<br>
 
 ¿Qué está pasando con las tasas de interés?<br>
 
-<strong>(Salón Olmeca 1)</strong>
+<small>(Salón Olmeca 1)</small>
 
 &nbsp;</td>
 <td width="586"><strong>• Marco Antonio López Pérez,</strong> Vicepresidente de Supervisión de Grupos e Intermediarios Financieros, CNBV<br>
@@ -129,13 +124,13 @@ Innovando en productos microfinancieros<br>
 
 <strong>• Juan Francisco Fernández</strong>, Presidente del Consejo de Administración, Crediclub<br>
 
-<strong>MODERADOR: Jorge Mario Soto Romero, </strong>Titular del Órgano Interno de Control, Secretaría de Economía
+<small>MODERADOR:</small> Jorge Mario Soto Romero, Titular del Órgano Interno de Control, Secretaría de Economía
 
 &nbsp;</td>
 </tr>
 <tr>
 <td width="123"><strong>13:45 – 15:15</strong></td>
-<td colspan="2" width="747" style="text-align: center; vertical-align: middle;">COMIDA <strong>(Salón Mexica 1)</strong></td>
+<td colspan="2" width="747" style="text-align: center; vertical-align: middle;">COMIDA <small>(Salón Mexica 1)</small></td>
 </tr>
 <tr class="simulacion">
 <td width="123"><strong>15:15 -16:30</strong></td>
@@ -143,7 +138,7 @@ Innovando en productos microfinancieros<br>
 
 Rompiendo paradigmas en la educación financiera y empresarial<br>
 
-<strong>(Salón Olmeca 4)</strong></td>
+<small>(Salón Olmeca 4)</small></td>
 <td width="586"> 
 
 <strong>• Juan Navarrete, </strong>Director de Negocios y Desarrollo de Alianzas, Fundación Capital<br>
@@ -152,7 +147,7 @@ Rompiendo paradigmas en la educación financiera y empresarial<br>
 
 <strong>• Juan Vega González</strong>, Gerente de Proyecto para América Latina, EduFinance: Opportunity International<br>
 
-<strong>MODERADOR: Leonardo Jorge Torres Góngora,</strong> Director General de Educación Financiera, CONDUSEF
+<strong><small>MODERADOR:</small> Leonardo Jorge Torres Góngora, Director General de Educación Financiera, CONDUSEF
 
 &nbsp;</td>
 </tr>
@@ -164,7 +159,7 @@ Rompiendo paradigmas en la educación financiera y empresarial<br>
 
 Nuevas tecnologías: ideas que impulsan las microfinanzas<br>
 
-<strong>(Salón Olmeca 1)</strong></td>
+<small>(Salón Olmeca 1)</small></td>
 <td width="586"> 
 
 <strong>• René Romero Arrechavala, </strong>Asesor Senior de Centro América y el Caribe, Amarante Consulting<br>
@@ -173,13 +168,13 @@ Nuevas tecnologías: ideas que impulsan las microfinanzas<br>
 
 <strong>• Gerd Hans Weißbach, </strong>Director para América Latina y el Caribe, Sparkassenstiftung für Internationale Kooperation<br>
 
-<strong>MODERADOR: Gustavo Salaiz  Gabriel, </strong>Director General Adjunto de Explotación de Información, CNBV
+<strong><small>MODERADOR:</small> Gustavo Salaiz  Gabriel, Director General Adjunto de Explotación de Información, CNBV
 
 &nbsp;</td>
 </tr>
 <tr>
 <td width="123"><strong>16:30 – 16:45</strong></td>
-<td colspan="2" width="747" style="text-align: center; vertical-align: middle;">RECESO / NETWORKING <strong>(Salón Olmeca 2)</strong>
+<td colspan="2" width="747" style="text-align: center; vertical-align: middle;">RECESO / NETWORKING <small>(Salón Olmeca 2)</small>
 
 &nbsp;</td>
 </tr>
@@ -191,14 +186,15 @@ Nuevas tecnologías: ideas que impulsan las microfinanzas<br>
 
 Evolución y desafíos en las microfinanzas<br>
 
-<strong>(Salón Olmeca 4)</strong></td>
-<td width="586"><strong>• Timothy Ogden,</strong> Director General del Financial Access Initiative, New York University</td>
+<small>(Salón Olmeca 4)</small></td>
+<td width="586" style="vertical-align: middle;"><strong>• Timothy Ogden,</strong> Director General 
+<!--del Financial Access Initiative, New York University</td>-->
 </tr>
 <tr class="clausura">
 <td width="123"><strong>17:45 –18:00</strong>
 
  </td>
-<td colspan="2" width="747" style="text-align: center; vertical-align: middle;">CLAUSURA <strong>(Salón Olmeca 4)</strong>
+<td colspan="2" width="747" style="text-align: center; vertical-align: middle;">CLAUSURA 
 
 &nbsp;</td>
 </tr>
@@ -206,7 +202,7 @@ Evolución y desafíos en las microfinanzas<br>
 <td width="123"><strong>18:00</strong></td>
 <td colspan="2" width="747" style="text-align: center; vertical-align: middle;">
 
-CÓCTEL <strong>(Salón Mexica 1)</strong>
+    CÓCTEL 
 
 &nbsp;</td>
 </tr>

@@ -382,8 +382,15 @@ img {
   font-size: 0.7em;
   left: 10px;
 }
+#programa table tr.blanco {
+  background-color: white;
+}
 #programa table tr.simulacion {
   background-color: #6d6e71;
+  color: white;
+}
+#programa table tr.primera {
+  background-color: #b00322;
   color: white;
 }
 #programa table tr.magistral {
