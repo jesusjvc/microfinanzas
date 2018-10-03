@@ -21,6 +21,15 @@
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
       <script src="https://cdnjs.cloudflare.com/ajax/libs/ie8/0.2.2/ie8.js"></script>
     <![endif]-->
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-49564017-19"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-49564017-19');
+</script>
 
 </head>
 
@@ -316,22 +325,22 @@
 
              
                 
-                <article>
+                <article style="overflow-x:auto;">
                   
-                  <table class="programa" width="0">
+                  <table class="programa" width="100%">
 <tbody>
 <tr class="blanco">
-<td width="123" style="text-align: center; vertical-align: middle;"><strong>Horario</strong></td>
-<td width="161" style="text-align: center; vertical-align: middle;"><strong>Tema</strong></td>
-<td width="586" style="text-align: center; vertical-align: middle;"><strong>Ponentes</strong></td>
+<td width="14.13%" style="text-align: center; vertical-align: middle;"><strong>Horario</strong></td>
+<td width="18.50%" style="text-align: center; vertical-align: middle;"><strong>Tema</strong></td>
+<td width="67.35%" style="text-align: center; vertical-align: middle;"><strong>Ponentes</strong></td>
 </tr>
 <tr>
-<td width="123" ><strong>08:30 a 09:30</strong></td>
+<td ><strong>08:30 a 09:30</strong></td>
     <td colspan="2" width="747" style="text-align: center; vertical-align: middle;"><strong>REGISTRO DE PARTICIPANTES</strong> <small>(Accesos Salones Olmeca)</small> </td>
 </tr>
 <tr class="magistral">
-<td width="123" ><strong>9:30 - 10:45</strong></td>
-<td width="161"><strong>Inauguración </strong><br>
+<td><strong>9:30 - 10:45</strong></td>
+<td ><strong>Inauguración </strong><br>
 
 <small>(Salón Olmeca 4)</small>
 
