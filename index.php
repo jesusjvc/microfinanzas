@@ -302,14 +302,8 @@
                             </div>
                         </div>
                         
-                           <div class="item">
-                            <img src="img/ponentes/MariaMatilde_FFH.jpg" alt="">
-                            <div class="info">
-                                <h3>María Matilde Olazábal Forcén</h3>
-                                <p>Directora, Freedom From Hunger México</p>
-                            </div>
-                        </div>
-                        
+                    
+                       
                         
                     </div>
                 </article>

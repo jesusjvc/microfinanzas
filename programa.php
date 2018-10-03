@@ -48,7 +48,7 @@
 </tr>
 <tr>
 <td width="123" ><strong>08:30 a 09:30</strong></td>
-    <td colspan="2" width="747" style="text-align: center; vertical-align: middle;">REGISTRO DE PARTICIPANTES <small>(Accesos Salones Olmeca)</small> </td>
+    <td colspan="2" width="747" style="text-align: center; vertical-align: middle;"><strong>REGISTRO DE PARTICIPANTES</strong> <small>(Accesos Salones Olmeca)</small> </td>
 </tr>
 <tr class="magistral">
 <td width="123" ><strong>9:30 - 10:45</strong></td>
@@ -84,7 +84,7 @@ A cuatro décadas de su creación, una perspectiva global y nacional de las micr
 </tr>
 <tr>
 <td width="123"><strong>12:15 – 12:30</strong></td>
-<td colspan="2" width="747" style="text-align: center; vertical-align: middle;">RECESO / NETWORKING <small>(Salón Olmeca 2)</small></td>
+<td colspan="2" width="747" style="text-align: center; vertical-align: middle;"><strong>RECESO / NETWORKING</strong> <small>(Salón Olmeca 2)</small></td>
 </tr>
 <tr class="simulacion">
 <td width="123"><strong>12:30 -13:45</strong>
@@ -130,7 +130,7 @@ Innovando en productos microfinancieros<br>
 </tr>
 <tr>
 <td width="123"><strong>13:45 – 15:15</strong></td>
-<td colspan="2" width="747" style="text-align: center; vertical-align: middle;">COMIDA <small>(Salón Mexica 1)</small></td>
+<td colspan="2" width="747" style="text-align: center; vertical-align: middle;"><strong>COMIDA</strong> <small>(Salón Mexica 1)</small></td>
 </tr>
 <tr class="simulacion">
 <td width="123"><strong>15:15 -16:30</strong></td>
@@ -174,7 +174,7 @@ Nuevas tecnologías: ideas que impulsan las microfinanzas<br>
 </tr>
 <tr>
 <td width="123"><strong>16:30 – 16:45</strong></td>
-<td colspan="2" width="747" style="text-align: center; vertical-align: middle;">RECESO / NETWORKING <small>(Salón Olmeca 2)</small>
+<td colspan="2" width="747" style="text-align: center; vertical-align: middle;"><strong>RECESO / NETWORKING</strong> <small>(Salón Olmeca 2)</small>
 
 &nbsp;</td>
 </tr>
@@ -187,14 +187,14 @@ Nuevas tecnologías: ideas que impulsan las microfinanzas<br>
 Evolución y desafíos en las microfinanzas<br>
 
 <small>(Salón Olmeca 4)</small></td>
-<td width="586" style="vertical-align: middle;"><strong>• Timothy Ogden,</strong> Director General 
-<!--del Financial Access Initiative, New York University</td>-->
+<td width="586" style="vertical-align: middle;"><strong>• Timothy Ogden,</strong> Director General del Financial Access Initiative
+</td>
 </tr>
 <tr class="clausura">
 <td width="123"><strong>17:45 –18:00</strong>
 
  </td>
-<td colspan="2" width="747" style="text-align: center; vertical-align: middle;">CLAUSURA 
+<td colspan="2" width="747" style="text-align: center; vertical-align: middle;"><strong>CLAUSURA</strong> 
 
 &nbsp;</td>
 </tr>
@@ -202,7 +202,7 @@ Evolución y desafíos en las microfinanzas<br>
 <td width="123"><strong>18:00</strong></td>
 <td colspan="2" width="747" style="text-align: center; vertical-align: middle;">
 
-    CÓCTEL 
+    <strong>CÓCTEL </strong>
 
 &nbsp;</td>
 </tr>
