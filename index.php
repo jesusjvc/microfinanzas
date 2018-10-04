@@ -449,7 +449,7 @@ Nuevas tecnologías: ideas que impulsan las microfinanzas<br>
 <small>(Salón Olmeca 1)</small></td>
 <td width="586"> 
 
-<strong>• René Romero Arrechavala, </strong>Asesor Senior de Centro América y el Caribe, Amarante Consulting<br>
+<strong>• René Romero Arrechavala, </strong>Asesor Senior de Centroamérica y el Caribe, Amarante Consulting<br>
 
 <strong>• Alonso Castellot, </strong> Director, Intelistregia<br>
 
