@@ -455,7 +455,7 @@ Nuevas tecnologías: ideas que impulsan las microfinanzas<br>
 
 <strong>• Gerd Hans Weißbach, </strong>Director para América Latina y el Caribe, Sparkassenstiftung für Internationale Kooperation<br>
 
-    <small>MODERADOR:</small> <strong>Gustavo Salaiz  Gabriel</strong>, Director General Adjunto de Explotación de Información, CNBV
+    <small>MODERADOR:</small> <strong>Gustavo Salaiz  Gabriel</strong>, Director General Adjunto de Supervisión de Modelos Novedosos,CNBV
 
 &nbsp;</td>
 </tr>
