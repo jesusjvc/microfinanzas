@@ -350,6 +350,12 @@ img {
   width: 100%;
   margin-top: 20px;
 }
+#programa a {
+  color: white!important;
+}
+#programa a:hover {
+  color: black!important;
+}
 #programa article {
   max-width: 1100px !important;
   min-height: 500px;

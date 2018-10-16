@@ -358,13 +358,13 @@ A cuatro décadas de su creación, una perspectiva global y nacional de las micr
 <small>(Salón Olmeca 4)</small></td>
 <td width="586" style="vertical-align: middle;"> 
 
-<strong>• Elisabeth Rhyne</strong>, Directora Gerente del Centro para la Inclusión Financiera, Acción<br>
+<strong>• Elisabeth Rhyne</strong>, Directora Gerente del Centro para la Inclusión Financiera, Acción. <a href="http://localhost/microfinanzas/pdf/ELISABETH%20RHYNE.pdf">Descargar presentación</a><br>
 
-<strong>• Leo Abruzzese</strong>, Director Global de Política Pública, The Economist Intelligence Unit<br>
+<strong>• Leo Abruzzese</strong>, Director Global de Política Pública, The Economist Intelligence Unit. <a href="http://localhost/microfinanzas/pdf/LEO%20ABRUZZESE.pdf">Descargar presentación</a><br>
 
-<strong>• Georgina Vázquez</strong>, Gerente de Programa, OMTRIX<br>
+<strong>• Georgina Vázquez</strong>, Gerente de Programa, OMTRIX. <a href="http://localhost/microfinanzas/pdf/GEORGINA%20VAZQUEZ.pdf">Descargar presentación</a><br>
 
-<strong>• Fernando Sandoval Oseguera</strong>, Director de Instituciones Financieras, HR Ratings<br>
+<strong>• Fernando Sandoval Oseguera</strong>, Director de Instituciones Financieras, HR Ratings. <a href="http://localhost/microfinanzas/pdf/FERNANDO%20SANDOVAL.pdf">Descargar presentación</a><br>
 
 <small>• MODERADORA:</small> <strong>Lizbeth Fajury</strong>, Asociada, Marulanda &amp; Consultores
 
@@ -387,11 +387,11 @@ Innovando en productos microfinancieros<br>
 <small>(Salón Olmeca 4)</small></td>
 <td width="586">
 
-<strong>• Ryan Newton</strong>, Gerente en Asesoramiento Estratégico, Women’s World Banking<br>
+<strong>• Ryan Newton</strong>, Gerente en Asesoramiento Estratégico, Women’s World Banking. <a href="http://localhost/microfinanzas/pdf/RYAN%20NEWTON.pdf">Descargar presentación</a><br>
 
-<strong>• Lucía Pérez, </strong>Gerente de Operaciones, VisionFund México<br>
+<strong>• Lucía Pérez, </strong>Gerente de Operaciones, VisionFund México. <a href="http://localhost/microfinanzas/pdf/LUCIA%20PEREZ.pdf">Descargar presentación</a><br>
 
-<strong>• Juan Antonio Hernández Martínez</strong>, Representante Legal, Credicrece<br>
+<strong>• Juan Antonio Hernández Martínez</strong>, Representante Legal, Credicrece. <a href="http://localhost/microfinanzas/pdf/JUAN%20ANTONIO%20HERNANDEZ.pdf">Descargar presentación</a><br>
 
     <small>MODERADOR:</small> <strong>Isaías Naim López</strong>, Director General Adjunto de Planeación y Política Pública,  PRONAFIM
 
@@ -406,11 +406,11 @@ Innovando en productos microfinancieros<br>
 <small>(Salón Olmeca 1)</small>
 
 &nbsp;</td>
-<td width="586"><strong>• Marco Antonio López Pérez,</strong> Vicepresidente de Supervisión de Grupos e Intermediarios Financieros, CNBV<br>
+<td width="586"><strong>• Marco Antonio López Pérez,</strong> Vicepresidente de Supervisión de Grupos e Intermediarios Financieros, CNBV. <a href="http://localhost/microfinanzas/pdf/MARCO%20ANTONIO%20LOPEZ.pdf">Descargar presentación</a><br>
 
-<strong>• Pablo Cotler Ávalos</strong>, Académico del Departamento de Economía, Universidad Iberoamericana<br>
+<strong>• Pablo Cotler Ávalos</strong>, Académico del Departamento de Economía, Universidad Iberoamericana. <a href="http://localhost/microfinanzas/pdf/PABLO%20COTLER.pdf">Descargar presentación</a><br>
 
-<strong>• Juan Francisco Fernández</strong>, Presidente del Consejo de Administración, Crediclub<br>
+<strong>• Juan Francisco Fernández</strong>, Presidente del Consejo de Administración, Crediclub. <a href="http://localhost/microfinanzas/pdf/JUAN%20FRANCISCO%20FERNANDEZ.pdf">Descargar presentación</a><br>
 
     <small>MODERADOR:</small> <strong>Jorge Mario Soto Romero</strong>, Titular del Órgano Interno de Control, Secretaría de Economía
 
@@ -429,11 +429,11 @@ Rompiendo paradigmas en la educación financiera y empresarial<br>
 <small>(Salón Olmeca 4)</small></td>
 <td width="586"> 
 
-<strong>• Juan Navarrete, </strong>Director de Negocios y Desarrollo de Alianzas, Fundación Capital<br>
+<strong>• Juan Navarrete, </strong>Director de Negocios y Desarrollo de Alianzas, Fundación Capital. <a href="http://localhost/microfinanzas/pdf/JUAN%20NAVARRETE.pdf">Descargar presentación</a><br>
 
-<strong>• María Matilde Olazábal Forcén</strong>, Directora, Freedom From Hunger México<br>
+<strong>• María Matilde Olazábal Forcén</strong>, Directora, Freedom From Hunger México. <a href="http://localhost/microfinanzas/pdf/MARIA%20MATILDE%20OLAZABAL.pdf">Descargar presentación</a><br>
 
-<strong>• Juan Vega González</strong>, Gerente de Proyecto para América Latina, EduFinance: Opportunity International<br>
+<strong>• Juan Vega González</strong>, Gerente de Proyecto para América Latina, EduFinance: Opportunity International. <a href="http://localhost/microfinanzas/pdf/JUAN%20VEGA%20GONZALEZ.pdf">Descargar presentación</a><br>
 <small>MODERADOR:</small> <strong>Leonardo Jorge Torres Góngora</strong>, Director General de Educación Financiera, CONDUSEF
 
 &nbsp;</td>
@@ -449,11 +449,11 @@ Nuevas tecnologías: ideas que impulsan las microfinanzas<br>
 <small>(Salón Olmeca 1)</small></td>
 <td width="586"> 
 
-<strong>• René Romero Arrechavala, </strong>Asesor Senior de Centroamérica y el Caribe, Amarante Consulting<br>
+<strong>• René Romero Arrechavala, </strong>Asesor Senior de Centroamérica y el Caribe, Amarante Consulting. <a href="http://localhost/microfinanzas/pdf/RENE%20ROMERO.pdf">Descargar presentación</a><br>
 
-<strong>• Alonso Castellot, </strong> Director, Intelistregia<br>
+<strong>• Alonso Castellot, </strong> Director, Intelistregia. <a href="http://localhost/microfinanzas/pdf/ALONSO%20CASTELLOT.pdf">Descargar presentación</a><br>
 
-<strong>• Gerd Hans Weißbach, </strong>Director para América Latina y el Caribe, Sparkassenstiftung für Internationale Kooperation<br>
+<strong>• Gerd Hans Weißbach, </strong>Director para América Latina y el Caribe, Sparkassenstiftung für Internationale Kooperation. <a href="http://localhost/microfinanzas/pdf/GERD%20WEISSBACH.pdf">Descargar presentación</a><br>
 
     <small>MODERADOR:</small> <strong>Gustavo Salaiz  Gabriel</strong>, Director General Adjunto de Supervisión de Modelos Novedosos,CNBV
 
@@ -474,7 +474,7 @@ Nuevas tecnologías: ideas que impulsan las microfinanzas<br>
 Evolución y desafíos en las microfinanzas<br>
 
 <small>(Salón Olmeca 4)</small></td>
-<td width="586" style="vertical-align: middle;"><strong>• Timothy Ogden,</strong> Director General del Financial Access Initiative
+<td width="586" style="vertical-align: middle;"><strong>• Timothy Ogden,</strong> Director General del Financial Access Initiative. <a href="http://localhost/microfinanzas/pdf/TIMOTHY%20OGDEN.pdf">Descargar presentación</a>
 </td>
 </tr>
 <tr class="clausura">

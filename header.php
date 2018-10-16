@@ -7,5 +7,5 @@
 -->
     <div class="menu"><a href="#expomf">EXPOMF18</a></div>
     <div class="menu"><a href="#pronafim">PRONAFIM</a></div>
-    <div class="menu"><a href="https://acob.guru/e-nscribe/iniciopronafim2018.asp" class="registrate">REGÍSTRATE AQUÍ</a></div>
+    <div class="menu"><a href="http://acob.guru/e-nscribe/constanciaspronafim2018.asp" class="registrate">DESCARGA TU CONSTANCIA AQUÍ</a></div>
 </div>

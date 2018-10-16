@@ -70,7 +70,7 @@ A cuatro décadas de su creación, una perspectiva global y nacional de las micr
 <small>(Salón Olmeca 4)</small></td>
 <td width="586" style="vertical-align: middle;"> 
 
-<strong>• Elisabeth Rhyne</strong>, Directora Gerente del Centro para la Inclusión Financiera, Acción<br>
+<strong>• Elisabeth Rhyne</strong>, Directora Gerente del Centro para la Inclusión Financiera, Acción. <a href="http://localhost/microfinanzas/pdf/ELISABETH%20RHYNE.pdf">Descargar presentación</a><br>
 
 <strong>• Leo Abruzzese</strong>, Director Global de Política Pública, The Economist Intelligence Unit<br>
 
